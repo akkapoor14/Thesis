@@ -16,7 +16,7 @@ To investigate the ties between emotions and reactions to fake/real news:
 
 3. Conduct sentiment and emotion analysis on top features to compare classes --> Use VADER and NRC Emotion Lexicon
 
-4. Use this approach on fake news/real news (ISOT Fake News Dataset)  to study ‘publisher emotion’, and on Twitter reactions to fake/real news (2023 CIC TruthSeeker Dataset) to study ‘social emotion’
+4. Use this approach on fake news/real news (ISOT Fake News Dataset, https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)  to study ‘publisher emotion’, and on Twitter reactions to fake/real news (2023 CIC TruthSeeker Dataset) to study ‘social emotion’
 
 To investigate the tie between social media algorithms and fake news virality: 
 
