@@ -20,7 +20,7 @@ To investigate the ties between emotions and reactions to fake/real news:
 
 To investigate the tie between social media algorithms and fake news virality: 
 
-1. Collected 100 most upvoted posts in r/politics from one month before and after Reddit implemented suggested-content
+1. Created my own datasets by collecting 100 most upvoted posts in r/politics from one month before and after Reddit implemented suggested-content. Provided in Github, as well as posted on Kaggle. 
 
 2. Train Neural Network on fake/real news (ISOT Fake News Dataset) 
 (Achieves higher accuracy than Naive Bayes Model, and feature interpretability not relevant)
